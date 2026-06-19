@@ -1,0 +1,10 @@
+
+The history of artificial intelligence stretches back further than most people realize.
+
+In 1950, Alan Turing proposed the famous "Turing Test" as a measure of machine intelligence — if a machine could carry on a conversation indistinguishable from a human's, it could be considered intelligent. This framing shaped decades of AI research.
+
+The term "Artificial Intelligence" itself was coined in 1956 by John McCarthy at the Dartmouth Conference, where researchers gathered with optimistic predictions: that human-level AI was just around the corner. That optimism would be tested by two long "AI winters" — periods of reduced funding and interest after progress stalled.
+
+The modern era of AI began around 2012, when deep neural networks dramatically outperformed classical methods on image recognition benchmarks. Since then, the field has advanced at a remarkable pace, culminating in large language models capable of reasoning, coding, and creative writing.
+
+The central question today is no longer "can machines think?" but "how should thinking machines be built, governed, and aligned with human values?"
