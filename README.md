@@ -4,12 +4,12 @@ An AI-powered document processing tool that reads PDFs and text files, sends the
 
 ## Features
 
- **Multi-Format Support**: Process PDFs and text files seamlessly  
- **Fast LLM Processing**: Uses Groq's free-tier models for rapid inference  
- **Custom Prompts**: Ask specific questions or provide custom instructions  
- **Auto-Save**: Responses are automatically saved with timestamps  
- **CLI & Programmatic**: Use as a command-line tool or import as a Python module  
- **Token Tracking**: Monitor API token usage  
+ **- Multi-Format Support**: Process PDFs and text files seamlessly  
+ **- Fast LLM Processing**: Uses Groq's free-tier models for rapid inference  
+ **- Custom Prompts**: Ask specific questions or provide custom instructions  
+ **- Auto-Save**: Responses are automatically saved with timestamps  
+ **- CLI & Programmatic**: Use as a command-line tool or import as a Python module  
+ **- Token Tracking**: Monitor API token usage  
 
 ## Supported Models
 
