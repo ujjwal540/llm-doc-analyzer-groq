@@ -1,19 +1,19 @@
-# Groq PDF Processor
+# llm-doc-analyzer-groq
 
 An AI-powered document processing tool that reads PDFs and text files, sends them to the Groq LLM API, and provides intelligent responses.
 
 ## Features
 
-✨ **Multi-Format Support**: Process PDFs and text files seamlessly  
-🚀 **Fast LLM Processing**: Uses Groq's free-tier models for rapid inference  
-🎯 **Custom Prompts**: Ask specific questions or provide custom instructions  
-📝 **Auto-Save**: Responses are automatically saved with timestamps  
-🔧 **CLI & Programmatic**: Use as a command-line tool or import as a Python module  
-📊 **Token Tracking**: Monitor API token usage  
+ **Multi-Format Support**: Process PDFs and text files seamlessly  
+ **Fast LLM Processing**: Uses Groq's free-tier models for rapid inference  
+ **Custom Prompts**: Ask specific questions or provide custom instructions  
+ **Auto-Save**: Responses are automatically saved with timestamps  
+ **CLI & Programmatic**: Use as a command-line tool or import as a Python module  
+ **Token Tracking**: Monitor API token usage  
 
 ## Supported Models
 
-- `llama-3.3-70b-versatile` ⭐ (recommended - best quality)
+- `llama-3.3-70b-versatile`  (recommended - best quality)
 - `llama-3.1-8b-instant` (fastest)
 - `llama-4-scout-17b-16e-instruct` (512K context)
 - `gemma2-9b-it` (efficient)
@@ -174,10 +174,6 @@ pip install PyPDF2
 - `python-dotenv>=1.0.0`
 - `PyPDF2>=3.0.0`
 
-## License
-
-MIT License - Feel free to use, modify, and distribute.
-
 ## Contributing
 
 Contributions are welcome! Please:
@@ -187,10 +183,4 @@ Contributions are welcome! Please:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Support
 
-For issues and questions, please open a GitHub issue.
-
----
-
-Made with ❤️ using Groq LLM
